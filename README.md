@@ -1,2 +1,2 @@
-# Data-Analytics-portfolio
-A Collection of my Power BI, SQL, and Python Learning Projects.
+Nayani's Data Analytics Journey
+This repository tracks my progress as I learn Power BI, SQL, and Python.
